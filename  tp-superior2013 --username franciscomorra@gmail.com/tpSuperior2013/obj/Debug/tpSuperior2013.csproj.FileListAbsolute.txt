@@ -7,3 +7,11 @@ C:\Documents and Settings\UsuarioAdmin\Escritorio\superior\tpSuperior2013\obj\De
 C:\Documents and Settings\UsuarioAdmin\Escritorio\superior\tpSuperior2013\obj\Debug\tpSuperior2013.exe
 C:\Documents and Settings\UsuarioAdmin\Escritorio\superior\tpSuperior2013\obj\Debug\tpSuperior2013.pdb
 C:\Documents and Settings\UsuarioAdmin\Escritorio\superior\tpSuperior2013\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\tpSuperior2013.exe
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\tpSuperior2013.pdb
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\bin\Debug\tpSuperior2013.exe
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\bin\Debug\tpSuperior2013.pdb
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Workspace\Matemática Superior (Trabajo Práctico)\Interpolación\ tp-superior2013 --username franciscomorra@gmail.com\tpSuperior2013\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
